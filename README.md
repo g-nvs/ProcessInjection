@@ -1,2 +1,2 @@
 # ProcessInjection
-Process Injection Techniques in C++ for learning purposes.
+Process Injection Techniques for learning purposes.
