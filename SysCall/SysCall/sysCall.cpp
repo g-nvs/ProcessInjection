@@ -1,8 +1,5 @@
 #include <windows.h>
 #include <iostream>
-#include <direct.h> 
-
-using namespace std;
 
 //winternl.h
 #ifndef InitializeObjectAttributes
