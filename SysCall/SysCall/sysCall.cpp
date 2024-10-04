@@ -69,7 +69,7 @@ typedef NTSTATUS(NTAPI* pZwCreateFile) (
 typedef NTSTATUS(NTAPI* pRtlInitUnicodeString)(
 	PUNICODE_STRING DestinationString,
 	PCWSTR SourceString
-	);
+);
 
 
 #define OBJ_CASE_INSENSITIVE			0x00000040L
